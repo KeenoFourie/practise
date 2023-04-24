@@ -1,0 +1,32 @@
+.practise {
+    text-align: center;
+    background-color: rgba(117, 0, 111, 0.299);
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin: 2rem;
+    padding: 2rem;
+}
+
+body {
+    background-color: rgb(79, 22, 133);
+    background-image: url("./GettyImages-1163301848-7da7e26eef744fc8acf2be233234088e.jpg");
+    background-blend-mode: darken;
+    background-position: top;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+}
+
+.table {
+    text-align: center;
+    background-color: rgba(117, 0, 111, 0.299);
+    border-style: solid;
+    border-radius: 0.5rem;
+    border-color: black;
+    box-shadow: 2rem 2rem;
+}
+
+th, td {
+    padding-right: 2rem;
+    border-style: solid;
+}
